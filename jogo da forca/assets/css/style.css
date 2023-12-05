@@ -1,0 +1,30 @@
+#word {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  #guesses {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  #hangman {
+    font-size: 18px;
+  }
+
+  .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    background-color: rgb(141, 141, 141, 0);
+    border-radius: 10px;
+    color: white;
+  }
+
+  body{
+    background-image: url('imgs/fundo.png');
+    background-size: 100%;
+  }
+  
